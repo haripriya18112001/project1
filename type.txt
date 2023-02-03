@@ -1,0 +1,35 @@
+1. working of angular application ?
+
+2. selector
+     A selector is one of the properties of the object that we use along with the component configuration.
+     eg: <app-navbar>
+3.template url
+     The relative path or absolute URL of a template file for an Angular component.
+     eg: templateUrl: './navbar.component.html',
+4.style url
+     "styleUrls" to link the TypeScript file to an external CSS that contains more styles.
+      eg: styleUrls: ['./navbar.component.css']
+5.spa (single page application)
+      In a Single Page Application (SPA), all of your application's functions exist in a single HTML page
+6. 2 ways to create a template
+        
+7.ng module
+       An NgModule is a class marked by the @NgModule decorator.
+       @NgModule takes a metadata object that describes how to compile a component's template and how to create an injector at runtime.
+8.meta data
+        Metadata is used to decorate a class so that it can configure the expected behavior of the class. Following are the different parts for metadata.
+        Annotations − These are decorators at the class level. This is an array and an example having both the @Component and @Routes decorator.
+9.why were client side framework introduced?
+        It was designed by Google to enable developers to create dynamic and interesting web applications. 
+        Using this framework, developers can build front-end-based apps without using any other plugins or frameworks.
+10.optional parameter
+        the optional parameter is defined as a parameter that can be made optional while passing the values when the function is called and the values that are passed when the function is called is printed with 
+        no errors but when the functions have declared the parameters that are ending with “?” are marked as
+        
+11.inference
+       In TypeScript, there are several places where type inference is used to provide type information when there is no explicit type annotation. 
+12.anonymous fn
+       
+arroe fn
+diffrence js and ts
+react & angular diffrence
